@@ -2,7 +2,7 @@
 PIT/JUN24/07945
 <h1>Tic Tac Toe</h1>
 
-
+![tic tac toe](https://github.com/SandhyaPitchika/PRODIGY_WD_03/assets/173603999/97baac20-0675-4d79-8ef4-5b6b1e48ab6e)
 This is a simple implementation of the classic Tic Tac Toe game using web technologies: HTML for structure, CSS for styling, and JavaScript for game logic.
 ## Features
 Player vs Player mode
